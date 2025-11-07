@@ -1,1 +1,3 @@
-# Pharmacy App CodeBlocks, g++.exe compiler
+# Pharmacy App
+
+CodeBlocks, g++.exe compiler
